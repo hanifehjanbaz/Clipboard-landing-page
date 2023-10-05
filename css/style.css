@@ -126,7 +126,6 @@ section {
 
 .page-logo:link,
 .page-logo:visited {
-    /*display: block;*/
     margin-top: 11rem;
 }
 
@@ -150,7 +149,7 @@ section {
 }
 
 .section-clipboard {
-    margin-top: 18rem;
+    margin-top: 17rem;
 }
 
 .section-workflow {
@@ -170,6 +169,10 @@ section {
     margin-top: 2rem;
 }
 
+.workflow-item .text-description {
+    line-height: 1.6;
+}
+
 .section-logo {
     display: flex;
     flex-wrap: wrap;
@@ -184,7 +187,7 @@ section {
 }
 
 .section-download {
-    margin-top: 16rem;
+    margin-top: 17rem;
 }
 
 .snippet-content {
