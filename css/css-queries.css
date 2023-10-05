@@ -4,6 +4,11 @@
         width: unset;
     }
 
+    .page-logo:link,
+    .page-logo:visited {
+        margin-top: 13rem;
+    }
+
     .heading-primary {
         max-width: unset;
         font-size: 4.4rem;
@@ -65,7 +70,7 @@
 
     .section-logo {
         flex-direction: row;
-        margin-top: 16rem;
+        margin-top: 17rem;
         gap: 8rem;
     }
 
